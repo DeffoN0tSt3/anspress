@@ -2,10 +2,9 @@
 # This file is distributed under the GPL-3.0+.
 msgid ""
 msgstr ""
-"Project-Id-Version: AnsPress Question Answer 4.2.3\n"
-"Report-Msgid-Bugs-To: "
-"https://wordpress.org/support/plugin/anspress-question-answer\n"
-"POT-Creation-Date: 2022-02-21 10:12:32+00:00\n"
+"Project-Id-Version: AnsPress Question Answer 4.3.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/anspress\n"
+"POT-Creation-Date: 2022-05-11 03:36:56+00:00\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -401,7 +400,7 @@ msgid "%d Child"
 msgstr ""
 
 #: addons/categories/widget.php:132 widgets/ask-form.php:78
-#: widgets/leaderboard.php:142 widgets/question_stats.php:115
+#: widgets/leaderboard.php:146 widgets/question_stats.php:115
 #: widgets/questions.php:121 widgets/search.php:75
 msgid "Title:"
 msgstr ""
@@ -2948,7 +2947,6 @@ msgid "Your Name"
 msgstr ""
 
 #: includes/class-form-hooks.php:80 includes/class-form-hooks.php:194
-#: tests/old/wpunit/askFormTest.php:70
 msgid "Enter your name to display"
 msgstr ""
 
@@ -4400,35 +4398,35 @@ msgstr ""
 msgid "Shows users leaderboard."
 msgstr ""
 
-#: widgets/leaderboard.php:98
+#: widgets/leaderboard.php:102
 msgid "No users found with reputation."
 msgstr ""
 
-#: widgets/leaderboard.php:107
+#: widgets/leaderboard.php:111
 msgid "Points"
 msgstr ""
 
-#: widgets/leaderboard.php:115
+#: widgets/leaderboard.php:119
 msgid "Reputation add-on is not active."
 msgstr ""
 
-#: widgets/leaderboard.php:133
+#: widgets/leaderboard.php:137
 msgid "AnsPress Leader board"
 msgstr ""
 
-#: widgets/leaderboard.php:146
+#: widgets/leaderboard.php:150
 msgid "Interval (in days):"
 msgstr ""
 
-#: widgets/leaderboard.php:150
+#: widgets/leaderboard.php:154
 msgid "Avatar size:"
 msgstr ""
 
-#: widgets/leaderboard.php:154
+#: widgets/leaderboard.php:158
 msgid "Show users:"
 msgstr ""
 
-#: widgets/leaderboard.php:158
+#: widgets/leaderboard.php:162
 msgid "Users per row:"
 msgstr ""
 
